@@ -47,7 +47,7 @@ with st.container():
     left_col, mid_col, right_col = st.columns([2,1.75,1])
     with left_col:
         st.subheader("Hi, I am Ben :wave:")
-        st.title("A Data Scientist From NY")
+        st.title("A Data Scientist From PA")
         st.write("I am passionate about finding ways to use Python to be more effective in solving business problems.")
         st.write("Love animals.")
         st.write("Favorite food is pizza.")
